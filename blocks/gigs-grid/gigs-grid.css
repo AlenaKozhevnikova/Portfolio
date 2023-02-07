@@ -1,0 +1,8 @@
+.gigs-grid {
+  padding-left: 5%;
+  padding-right: 5%;
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  grid-template-rows: repeat(auto, 213px);
+  gap: 16px;
+}
